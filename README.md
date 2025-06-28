@@ -118,7 +118,7 @@ Below is the use case diagram for a simplified hotel booking platform. It illust
 - Receive Notifications
 - Generate Reports (Admin)
 
-![Use Case Diagram for Airbnb Booking System](./assets/alx-booking-uc.png)
+![Use Case Diagram for Airbnb Booking System](/alx-booking-uc.png)
 
 
 ---
